@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="Screen_title_top_margin">32dp</dimen>
+    <dimen name = "Left_margin">8dp</dimen>
+    <dimen name = "Right_margin">8dp</dimen>
+
+
+<!--    Font sizes-->
+    <dimen name="Screen_title_size">24sp</dimen>
+    <dimen name="Button_lable_size">16sp</dimen>
+    <dimen name = "Screen_body_size">20sp</dimen>
+</resources>
